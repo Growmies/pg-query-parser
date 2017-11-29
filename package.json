@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "lodash": "^4.13.1",
-    "pg-query-native": "^1.1.0"
+    "pg-query-native": "jacob-israel-turner/node-pg-query-native"
   },
   "keywords": [
     "sql",
